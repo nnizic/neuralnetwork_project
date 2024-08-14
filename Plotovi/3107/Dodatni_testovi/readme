@@ -1,0 +1,6 @@
+Testovi:
+
+doreg00 - ponovljeni test na 20 epoha - točnost 67%
+doreg01 - sa 20 na 50epoha - točnost 60%
+doreg02 - l2 regularizacija sa 0.001 na 0.0001 - točnost 45%
+doreg03 - dropout sa 0.2 na 0.5 - točnost 54%
